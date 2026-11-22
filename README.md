@@ -47,39 +47,31 @@
    6. Simple text-based interface.
       
 11. Sample Output:
-
 Welcome to Hangman Game!
+Guess the hidden word letter by letter.
 
 Word: _ _ _ _ _
-Wrong guesses left: 6
-Guess one letter: p
+Wrong guesses: 0
+Enter a letter: p
 Correct guess!
 
-Word: p _ _ _ _ _
-Wrong guesses left: 6
-Guess one letter: y
+Word: _ p p _ _
+Wrong guesses: 0
+Enter a letter: a
 Correct guess!
 
-Word: p y _ _ _ _
-Wrong guesses left: 6
-Guess one letter: t
+Word: a p p _ _
+Wrong guesses: 0
+Enter a letter: l
 Correct guess!
 
-Word: p y t _ _ _
-Wrong guesses left: 6
-Guess one letter: h
+Word: a p p l _
+Wrong guesses: 0
+Enter a letter: e
 Correct guess!
 
-Word: p y t h _ _
-Wrong guesses left: 6
-Guess one letter: o
-Correct guess!
-
-Word: p y t h o _
-Wrong guesses left: 6
-Guess one letter: n
-Correct guess!
-Congratulations! You won!   
+Congratulations! You Won!
+The word is: apple
 
 9. Advantages:
    1. Easy to understand and play.
